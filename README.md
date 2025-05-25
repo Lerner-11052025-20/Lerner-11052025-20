@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Deep+Sorathiya;Full-Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Deep+Sorathiya;Full-Stack+Developer;Attend-Nirma-University;Create-Conquer-Coding;" alt="Typing SVG" />
   
   <p>Building innovative solutions with code and creativity</p>
   
