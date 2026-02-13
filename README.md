@@ -102,23 +102,21 @@ You said:
   <img src="https://img.shields.io/badge/API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Development"/>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lerner-11052025-20&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lerner-11052025-20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerner-11052025-20&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerner-11052025-20&theme=react" width="70%" alt="Activity Graph"/>
-</div>
 
 <!-- ## 📄 Resume & Contact
 
