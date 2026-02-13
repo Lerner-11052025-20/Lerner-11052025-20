@@ -105,8 +105,9 @@ You said:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lerner-11052025-20&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  
+  <img width="48%" src="https://streak-stats.demolab.com?user=Lerner-11052025-20&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -116,6 +117,7 @@ You said:
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerner-11052025-20&theme=tokyonight" />
 </p>
+
 
 
 <!-- ## 📄 Resume & Contact
