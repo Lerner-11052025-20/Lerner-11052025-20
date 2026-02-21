@@ -1,64 +1,132 @@
 <div align="center">
 
-# ⚡ Deep Sorathiya
-### Full-Stack Developer | Nirma University | Innovator
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3584E4,50:00d4ff,100:7c3aed&height=200&section=header&text=Deep%20Sorathiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Nirma%20University&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=500&lines=Building+Scalable+Solutions;Full-Stack+Web+Artisan;Open+Source+Contributor;Exploring+the+Future+of+AI" alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=500&lines=Create+%E2%80%A2+Conquer+%E2%80%A2+Code;Full-Stack+Developer;Nirma+University+Student;Building+Innovative+Solutions" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepsorathiya7990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:deepsorathiya803@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Lerner-11052025-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<!-- Availability Badge -->
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available-for%20Projects%20%26%20Collaboration-00d4ff?style=flat-square&labelColor=0c1120&color=3584E4"/>
+
+<br/><br/>
+
+<!-- Social Links -->
+<a href="https://www.linkedin.com/in/deepsorathiya7990/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:deepsorathiya803@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"Code is like poetry; it's all about finding the right rhythm."*
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
-*Crafting seamless experiences with a modern toolset*
+## ⚡ About Me
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,mysql,mongodb,html,css,git,linux,vscode,figma&perline=6" />
+```js
+const deep = {
+  name      : "Deep Sorathiya",
+  role      : "Full-Stack Developer",
+  university: "Nirma University",
+  motto     : "Create · Conquer · Code",
+  email     : "deepsorathiya803@gmail.com",
+  learning  : ["React", "API Development"],
+  available : true,
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🗄️ Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🔧 Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Skill | Progress |
+|-------|----------|
+| ⚛️ &nbsp; **React** — Hooks, Context & modern patterns | `████████████████░░░░` 70% |
+| 🔌 &nbsp; **API Development** — REST, Auth & integrations | `█████████████░░░░░░░` 55% |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Lerner-11052025-20&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-## 🚀 Featured Innovations
-<div align="left">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **WebSync** | Real-time developer collaboration tool. | `React` `WebSockets` | [🌐 Demo](https://patel-priyank-1602.github.io/WebSyncP-/) \| [💻 Code](https://github.com/patel-priyank-1602/WebSyncP-) |
-| **CGPA Calc** | High-precision academic tracker for students. | `Java` `JavaFX` | [🔗 Post](https://www.linkedin.com/posts/patel-priyank-945131288_java-programming-engineering-activity-7265681809449885699-zRXx) \| [💻 Code](https://github.com/Patel-Priyank-1602/PDEU-3rd-SEM-CGPA-Calculator-) |
-| **Gov Rules** | 2024-25 Indian Regulation resource hub. | `HTML5` `CSS3` | [🌐 Demo](https://patel-priyank-1602.github.io/Indian-Rules/) \| [💻 Code](https://github.com/patel-priyank-1602/Indian-Rules) |
+<br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerner-11052025-20&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 📊 Performance Metrics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Lerner-11052025-20&theme=tokyonight&hide_border=true&mode=daily" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lerner-11052025-20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-## 🌱 Currently Mastering
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://img.shields.io/badge/React_Framework-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/System_Design-FF6C37?style=flat-square&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Architecture-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lerner-11052025-20&theme=tokyo-night&hide_border=true&area=true"/>
+
 </div>
 
-<br />
+---
 
 <div align="center">
 
-> "Code is like poetry; it's all about finding the right rhythm."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:3584E4&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3584E4&height=60&section=footer" width="100%"/>
 </div>
