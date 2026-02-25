@@ -90,7 +90,7 @@ const deep = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/> -->
 <img width="49%" src="https://streak-stats.demolab.com?user=Lerner-11052025-20&theme=tokyonight&hide_border=true"/>
 
 <br/>
@@ -108,8 +108,6 @@ const deep = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lerner-11052025-20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
