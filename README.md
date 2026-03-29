@@ -45,7 +45,7 @@ const deep: Developer = {
 };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=donut&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=3584E4&bg_color=0d1117&hide_border=false&langs_count=6" alt="Top Languages" width="280" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&title_color=00d4ff&text_color=c9d1d9&border_color=3584E4&bg_color=0d1117&hide_border=false&langs_count=8&card_width=280" alt="Top Languages" width="290" />
 
 &nbsp;
 
@@ -114,10 +114,23 @@ No fluff. No filler. Just craft.
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| 🎓 CS Student | 💻 Full-Stack Dev | 🌐 Web Builder | 🛠️ Open Source | 🧠 Self-Taught | 🚀 Shipping |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Nirma University | React + MySQL | HTML · CSS · JS | Contributing | Problem Solver | Real Projects |
+
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lerner-11052025-20&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🎯_Problem_Solver-Consistent-00d4ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔥_Streak_Builder-Daily_Commits-3584E4?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📦_Project_Shipper-Real_Products-00d4ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🧩_UI_Crafter-Pixel_Perfect-3584E4?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📚_Always_Learning-Growth_Mindset-00d4ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🤝_Collaborator-Open_to_Work-3584E4?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
