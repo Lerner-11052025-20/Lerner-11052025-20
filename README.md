@@ -213,9 +213,7 @@ const deep: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=transparent&title_color=00d4ff&text_color=c9d1d9&icon_color=3b82f6&border_color=1e2a3a&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="47%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&title_color=00d4ff&text_color=c9d1d9&border_color=1e2a3a&bg_color=0d1117&hide_border=false&langs_count=6" alt="Top Languages" width="47%" />
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Lerner-11052025-20&cc=0d1117&tc=00d4ff&ic=3b82f6&bc=1e2a3a)](https://github.com/Lerner-11052025-20)
 
 </div>
 
@@ -227,11 +225,19 @@ const deep: Developer = {
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lerner-11052025-20&theme=github_dark" width="31%" />
+&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lerner-11052025-20&theme=github_dark" width="31%" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lerner-11052025-20&theme=github_dark" width="31%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lerner-11052025-20&theme=github_dark&utcOffset=5.5" width="49%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lerner-11052025-20&theme=github_dark&utcOffset=5.5" width="31%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Lerner-11052025-20&limit=5&theme=dark&combine_all_yearly_contributions=true" width="49%" />
 
 </div>
 
