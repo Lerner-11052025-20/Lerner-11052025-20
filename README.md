@@ -4,18 +4,25 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+SaaS+platforms+that+ship.;Engineering+APIs+that+scale.;Turning+ideas+into+production+products." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+%7C+MERN+%7C+SaaS+Builder;Backend+APIs+that+scale+to+production.;Frontend+UIs+that+users+actually+love.;Open+to+Internships+%E2%80%94+Let%27s+build+together." />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepsorathiya7990/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deep.professional803@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepsorathiya803@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/Lerner-11052025-20)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://deep-final-client.onrender.com/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-00d4ff?style=for-the-badge&logo=googledrive&logoColor=0d1117)](https://drive.google.com/file/d/1wxgYKsu4lLIIr8cwzA0XIxc5GcRNsVQV/view?usp=sharing)
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20SWE%20Roles-00d4ff?style=flat-square&labelColor=0d1117)
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-DSA%20Profile-f59e0b?style=flat-square&logo=target&logoColor=black&labelColor=0d1117)](https://takeuforward.org/profile/Lerner@11052025@20)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/medal/?showImg=0&id=7460343&isLevel=false)
+[![Behance](https://img.shields.io/badge/Behance-UI%2FUX%20Blog-1769ff?style=flat-square&logo=behance&logoColor=white&labelColor=0d1117)](https://www.behance.net/gallery/246670609/STAY-VISTAHUB-PREMIUM-UI-UX-Book-Instantly)
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Full%20Stack%20%7C%20Backend%20%7C%20SWE%20Internships-00d4ff?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/📍-Ahmedabad%2C%20Gujarat%2C%20India-3b82f6?style=flat-square&labelColor=0d1117)
 ![University](https://img.shields.io/badge/🎓-Nirma%20University%20%7C%20Class%20of%202027-a78bfa?style=flat-square&labelColor=0d1117)
 
@@ -31,16 +38,18 @@ const deep: Developer = {
   role        : "Full Stack Developer · MERN Stack Specialist · SaaS Builder",
   university  : "Nirma University, Ahmedabad — B.Tech CSE (2023–2027)",
   cgpa        : "8.5 / 10.0  |  Sem 1: 92%  |  Top 10% of cohort",
-  contact     : "deep.professional803@gmail.com  |  +91 7990082149",
+  contact     : "deepsorathiya803@gmail.com  |  +91 7990082149",
   focus       : ["SaaS Platforms", "REST API Design", "Scalable Architecture"],
-  seeking     : ["SWE Internship", "Entry-Level Roles", "Collaborative Projects"],
+  seeking     : ["Full Stack Intern", "Backend Intern", "Frontend Intern", "SWE Intern"],
   funFact     : "Shipped a SaaS serving 75+ users before turning 21.",
   motto       : "Create · Conquer · Code",
 };
 ```
 
-> CS undergraduate specializing in Full Stack Development with hands-on experience building **production-grade MERN stack applications**, SaaS platforms, and REST APIs.  
+> CS undergraduate at Nirma University specializing in **Full Stack Development** with hands-on experience building **production-grade MERN stack applications**, SaaS platforms, and REST APIs.
 > I care about code that's readable, systems that are resilient, and products that actually get used.
+>
+> 📄 **[Download My Resume →](https://drive.google.com/file/d/1wxgYKsu4lLIIr8cwzA0XIxc5GcRNsVQV/view?usp=sharing)** &nbsp;|&nbsp; 🌐 **[View Portfolio →](https://deep-final-client.onrender.com/)**
 
 ---
 
@@ -101,21 +110,6 @@ const deep: Developer = {
 
 ---
 
-## 📈 Skill Proficiency
-
-```
-  React 18 (Hooks · State · Patterns)    ████████████████████░░░░   85%
-  Node.js / Express.js APIs              ████████████████████░░░░   80%
-  TypeScript + Zod Validation            ██████████████████░░░░░░   75%
-  MongoDB / Supabase (PostgreSQL)        ████████████████████░░░░   78%
-  UI/UX · Tailwind CSS · Figma           █████████████████████░░░   82%
-  Data Structures & Algorithms           ████████████████░░░░░░░░   68%
-```
-
-> Rated by consistent daily practice and shipped production code — not self-assessment.
-
----
-
 ## 🚀 Shipped Projects
 
 ### ⚡ SnapCut AI — AI-Powered Background Removal SaaS
@@ -169,6 +163,21 @@ const deep: Developer = {
 
 ---
 
+### 🎨 StayVistaHub — Premium UI/UX Case Study
+
+> `Figma` `UI/UX Design` `User Research` `Prototyping`
+
+[![Behance](https://img.shields.io/badge/Behance-View%20Case%20Study-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/gallery/246670609/STAY-VISTAHUB-PREMIUM-UI-UX-Book-Instantly)
+![Type](https://img.shields.io/badge/Published-UI%2FUX%20Blog-a78bfa?style=flat-square)
+
+**Published design case study · End-to-end UX process · Premium booking experience**
+
+- 🎨 Designed full UI/UX flow for a premium hotel booking platform — research, wireframes, high-fidelity prototypes
+- 📐 Applied design system principles: consistent spacing, typography hierarchy, and accessible color contrast
+- 📖 Published as a **public Behance case study** — demonstrating design thinking and presentation skills beyond code
+
+---
+
 ## 🎓 Education
 
 | | |
@@ -202,10 +211,10 @@ const deep: Developer = {
 |:---:|:---|:---|
 | 🎓 | **Academic Excellence** | 92% in Sem 1 at Nirma University — Top 10% of B.Tech CS cohort. Excellence Certificate (2023). |
 | ⚡ | **Hackathon Recognition** | Delivered Full Stack MERN app at **Odoo Hackathon 2024** with JWT Auth + REST APIs in 48 hrs. |
-| 🧠 | **Competitive Programming** | Solved **200+ LeetCode problems** across DSA, DP, Graphs — strengthening SWE interview readiness. |
-| 📦 | **SaaS Launched** | Shipped SnapCut AI — production SaaS with **75+ active users** and live payment integration. |
+| 🧠 | **Competitive Programming** | Solved **200+ problems** across DSA, DP, Graphs on LeetCode & TakeUForward — strengthening SWE interview readiness. |
+| 📦 | **SaaS Launched** | Shipped SnapCut AI — production SaaS with **75+ active users** and live Razorpay payment integration. |
+| 🎨 | **Published Design Work** | UI/UX case study for StayVistaHub published on Behance — full design process from research to prototype. |
 | 📚 | **Continuous Learning** | Advanced JS (closures, async/await, event loop) + TypeScript (generics, interfaces, advanced types). |
-| 🌐 | **Open Source** | Active contributor on GitHub — React components, developer tools, documentation. |
 
 ---
 
@@ -255,13 +264,29 @@ const deep: Developer = {
 
 ---
 
+## 📬 Let's Connect
+
+> Open to **Full Stack**, **Backend**, **Frontend**, and **SWE Internship** roles — Summer / Fall 2026.
+
+| | |
+|---|---|
+| 📧 Email | [deepsorathiya803@gmail.com](mailto:deepsorathiya803@gmail.com) |
+| 📱 Phone | +91 7990082149 |
+| 💼 LinkedIn | [linkedin.com/in/deepsorathiya7990](https://www.linkedin.com/in/deepsorathiya7990/) |
+| 🌐 Portfolio | [deep-final-client.onrender.com](https://deep-final-client.onrender.com/) |
+| 📄 Resume | [View PDF →](https://drive.google.com/file/d/1wxgYKsu4lLIIr8cwzA0XIxc5GcRNsVQV/view?usp=sharing) |
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,12,24&section=footer&animation=twinkling&stroke=00d4ff&strokeWidth=1" />
 
 **`// If you made it here, let's build something worth shipping →`**
 
-[![Say Hello](https://img.shields.io/badge/Say%20Hello-deep.professional803%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:deep.professional803@gmail.com)
+[![Say Hello](https://img.shields.io/badge/Say%20Hello-deepsorathiya803%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:deepsorathiya803@gmail.com)
+[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-00d4ff?style=for-the-badge&logo=googledrive&logoColor=0d1117&labelColor=0d1117)](https://drive.google.com/file/d/1wxgYKsu4lLIIr8cwzA0XIxc5GcRNsVQV/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22d3a5?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117)](https://deep-final-client.onrender.com/)
 
 <sub>Crafted with intent by <strong>Deep Sorathiya</strong> — <em>Create · Conquer · Code</em></sub>
 
