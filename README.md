@@ -22,7 +22,7 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Full%20Stack%20%7C%20Backend%20%7C%20SWE%20Internships-00d4ff?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Full%20Stack%20%7C%20Backend%20%7C%20SWE%20Internships%20%7C%20Available%20May%202026-00d4ff?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/📍-Ahmedabad%2C%20Gujarat%2C%20India-3b82f6?style=flat-square&labelColor=0d1117)
 ![University](https://img.shields.io/badge/🎓-Nirma%20University%20%7C%20Class%20of%202027-a78bfa?style=flat-square&labelColor=0d1117)
 
@@ -217,7 +217,7 @@ const deep: Developer = {
 | 📚 | **Continuous Learning** | Advanced JS (closures, async/await, event loop) + TypeScript (generics, interfaces, advanced types). |
 
 ---
-
+> ⭐ Best work pinned below — [**SnapCut AI**](https://github.com/Lerner-11052025-20/snapcut-ai) · [**TiffinConnect**](https://github.com/Lerner-11052025-20/tiffin-connect-hub-59) · [**FleetFlow**](https://github.com/Lerner-11052025-20/fleetflow)
 ## 🔥 GitHub Pulse
 
 <div align="center">
