@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,12,24&text=Deep%20R.%20Sorathiya&fontSize=58&fontColor=00d4ff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%20Nirma%20University&descSize=16&descAlignY=65&animation=twinkling&stroke=00d4ff&strokeWidth=1.5" />
+
+
+<img src="https://raw.githubusercontent.com/Lerner-11052025-20/Lerner-11052025-20/main/assets/banner.png.png" width="100%" />
+
+
+
+
+
+
 
 <br/>
 
