@@ -200,17 +200,29 @@ const deep: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Pulse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=transparent&title_color=00d4ff&text_color=c9d1d9&icon_color=3b82f6&border_color=1e2a3a&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lerner-11052025-20&show_icons=true&theme=transparent&title_color=00d4ff&text_color=c9d1d9&icon_color=3b82f6&border_color=1e2a3a&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="47%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&title_color=00d4ff&text_color=c9d1d9&border_color=1e2a3a&bg_color=0d1117&hide_border=false&langs_count=6" alt="Top Languages" width="47%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerner-11052025-20&theme=github_dark" alt="Contribution Activity" width="98%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lerner-11052025-20&theme=github_dark" width="31%" />
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=Lerner-11052025-20&theme=transparent&background=0d1117&border=1e2a3a&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="47%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerner-11052025-20&layout=compact&title_color=00d4ff&text_color=c9d1d9&border_color=1e2a3a&bg_color=0d1117&hide_border=false&langs_count=8&card_width=400" width="47%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lerner-11052025-20&theme=github_dark" width="31%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lerner-11052025-20&theme=github_dark&utcOffset=5.5" width="31%" />
 
 </div>
 
